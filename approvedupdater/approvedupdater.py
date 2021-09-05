@@ -44,10 +44,15 @@ SORT_ORDER = [
 	'https://gitlab.com/CrunchBangDev/cbd-cogs',
 	'https://github.com/grayconcaves/FanCogs',
 	'https://github.com/flapjax/FlapJack-Cogs',
-	'https://github.com/Predeactor/Predeactor-Cogs',
 	'https://github.com/phenom4n4n/phen-cogs',
 	'https://github.com/SharkyTheKing/Sharky',
 	'https://github.com/Twentysix26/x26-Cogs',
+   	'https://github.com/Kowlin/Sentinel',
+   	'https://github.com/yamikaitou/YamiCogs',
+   	'https://github.com/flaree/pokecord-red',
+   	'https://github.com/TheWyn/Wyn-RedV3Cogs',
+   	'https://github.com/Kreusada/Kreusada-Cogs',
+        'https://github.com/Obi-Wan3/OB13-Cogs',
 ]
 
 
